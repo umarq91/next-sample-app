@@ -1,6 +1,6 @@
 import React from 'react'
 
-const test = () => {
+const test asda= () => {
   return (
     <div>test</div>
   )
